@@ -1,4 +1,4 @@
-package ru.yandex.buggyweatherapp.utils
+package ru.yandex.buggyweatherapp.presentation.utils
 
 import java.text.SimpleDateFormat
 import java.util.Date
