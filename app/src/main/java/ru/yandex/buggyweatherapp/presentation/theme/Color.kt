@@ -1,4 +1,4 @@
-package ru.yandex.buggyweatherapp.ui.theme
+package ru.yandex.buggyweatherapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
